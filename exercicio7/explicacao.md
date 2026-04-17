@@ -1,0 +1,2 @@
+# Explicação
+o comando `python3 -m http.server 8443 --bind 0.0.0.0` serve para transformar a pasta atual em um servidor web funcional. No nosso contexto, ao executar o comando e acessar a página na web, aparecerá todos os arquivos que criamos durante o processo
